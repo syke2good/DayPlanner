@@ -8,9 +8,9 @@
 
 # Git Hub:
 
-*My project was pushed to GitHub at the following repository*:https://github.com/syke2good/portfolio
+*My project was pushed to GitHub at the following repository*:https://github.com/syke2good/DayPlanner
 
-*You can access the deployed application with the GitHup Pages link*:https://syke2good.github.io/portfolio/
+*You can access the deployed application with the GitHup Pages link*:https://syke2good.github.io/DayPlanner/
 
 # WEB API's: 
 - jQuery - Used for event listeners of parent and childeren elements as well as to store and recall those varible in local storage.
